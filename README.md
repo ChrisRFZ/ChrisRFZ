@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChrisRFZ
+- 👀 I’m interested in computer security and programming languages, I am currently taking a Python course, which will be my first language, I am very excited. Apart from that, I really like photography and I am a firefighter in my country.
+- 🌱 I’m currently learning Python (Potnificia Univercidad Ctolica de Chile) and Cyber Segurity (Cisco)
+- 💞️ I’m looking to collaborate on projects or problems that I can help you solve
+- 📫 How to reach me: Linkedink or Instagram
